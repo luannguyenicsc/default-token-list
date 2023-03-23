@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Tether on FDAX",
+        "address": "0xC8Ca31555bb0E2B7eF9C1c1b5E26b982496D7016",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 2006,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/0x4ECaBa5870353805a9F068101A40E0f32ed605C6.jpg"
+    },
+    {
+      "name": "Wrapped FDAX",
+      "address": "0xCd1Aaa1587e62AEBB1E6C6d4eF44D5484bDc3B94",
+      "symbol": "WFDX",
+      "decimals": 18,
+      "chainId": 2006,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d.jpg"
+    },
+    {
+        "name": "SushiToken on FDAX",
+        "address": "0x612d95f3055F7c8f6C61223Be96C4bBaf64014C0",
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "chainId": 2006,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE.jpg"
+    }
+  ]
+  
