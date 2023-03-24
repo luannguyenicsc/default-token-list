@@ -1,7 +1,7 @@
 [
     {
         "name": "Tether on FDAX",
-        "address": "0xC8Ca31555bb0E2B7eF9C1c1b5E26b982496D7016",
+        "address": "0xc13B10cDBEc838bc9793172873227Bd1eAEb652A",
         "symbol": "USDT",
         "decimals": 6,
         "chainId": 2006,
