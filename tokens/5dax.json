@@ -17,19 +17,59 @@
     },
     {
         "name": "SushiToken on FDAX",
-        "address": "0xA40055777c5B364B4f262e8B267cF1DeCB690Fd1",
+        "address": "0xe512b321D039bDdBd9991dfE1a4Db8976fBa981A",
         "symbol": "SUSHI",
         "decimals": 18,
         "chainId": 2006,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE.jpg"
+    },  
+    {
+      "address": "0x9a78cfbAecF4C0b172b4578bd47f50B64fbc18F6",
+      "chainId": 2006,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
     },
     {
-      "address": "0x13aCAA2e707FFa16318462ABAFf4638d18D9861a",
+      "address": "0xDd646a71Dc910F1d0cf60D6ef3B3599aAeCc1EbC",
       "chainId": 2006,
-      "name": "Bao Finance",
-      "symbol": "BAO",
+      "name": "Chain Link",
+      "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x374CB8C27130E2c9E04F44303f3c8351B9De61C1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+    },
+    {
+      "address": "0x259c102813a1e7745D41291CD65B3BdA17fBaD6e",
+      "chainId": 2006,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    },
+    {
+      "address": "0x1c1153e141d0fD24333f2442686dc1Bb32d34cF3",
+      "chainId": 2006,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    },
+    {
+      "address": "0x03a6BF0fA68f0c42320698102a752B1D67CABf5a",
+      "chainId": 2006,
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+    },
+    {
+      "address": "0xD34F4d345dC82569bf695B7549427eBcEa211Ae4",
+      "chainId": 2006,
+      "name": "SushiBar",
+      "symbol": "xSUSHI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"
     }
   ]
   
